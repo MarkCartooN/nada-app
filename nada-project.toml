@@ -1,0 +1,7 @@
+name = "Cardio"
+version = "0.1.0"
+authors = ["MarkCartooN"]
+
+[[programs]]
+path = "src/cardio_risk.py"
+prime_size = 128
