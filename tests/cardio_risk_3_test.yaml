@@ -1,0 +1,15 @@
+---
+program: cardio_risk
+inputs:
+  sex: false
+  age: 66
+  is_smoking: 1
+  is_diabetic: 0
+  high_blood_pressure: 0
+  hdl_cholesterol: 39
+  height: 180
+  weight: 95
+  physical_act: 5
+  drinking: 2
+expected_outputs:
+  my_output: 5
