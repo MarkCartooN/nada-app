@@ -13,7 +13,7 @@ nada run cardio_risk_0_test
 nada test cardio_risk_0_test
 ```
 <!---------------------------------------------------------------------------->
-[Gitpod]: https://img.shields.io/badge/Gitpod-44a339?style=for-the-badge
+[Gitpod]: https://gitpod.io/button/open-in-gitpod.svg
 [GPLINK]: https://gitpod.io/#https://github.com/nillionnetwork/nada-by-example
 [KBD]: Types/KBD.md
 [#]: #
